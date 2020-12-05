@@ -32,7 +32,8 @@
 ### Contact me on:
 
 [<img align="left" alt="Shubhangam | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[linkedin]: https://www.linkedin.com/in/Shubhangam333/
+
+[linkedin]: https://www.linkedin.com/in/Shubhangam333
 <br>
 
 ---
