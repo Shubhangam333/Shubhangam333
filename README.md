@@ -40,6 +40,7 @@
  
 <a href="https://github.com/Shubhangam333/Shubhangam333">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shubhangam333&bg_color=282C34&text_color=ffffff" />
+ <img align="left" alt="Shubhangam's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Shubhangam333&bg_color=282C34&text_color=ffffff&show_icons=true&hide_border=true" />
 </a>
 
   <img align="left" alt="Shubhangam's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Shubhangam333&show_icons=true&hide_border=true" />
