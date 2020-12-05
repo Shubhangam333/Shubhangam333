@@ -5,7 +5,7 @@
 - :octocat: I am open to collaborate with other digital content creators.
 - :books: Learning new things, self driven, hard working and friendly.:smiley:
 
-![](https://komarev.com/ghpvc/?username=Shubhangam333&color=2bbc8a&style=flat)
+![](https://visitor-badge.glitch.me/badge?page_id=Shubhangam333.Shubhangam333)
 ### Languages and Tools:
 
 <img align="left" alt="HTML5" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
