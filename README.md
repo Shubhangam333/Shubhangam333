@@ -22,6 +22,7 @@
 <img align="left" alt="Git" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="35px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="PHP" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" />
+<img align="left" alt="Django" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png" />
 ---
 
 ### On My TODO list:
@@ -36,7 +37,6 @@
 [linkedin]: https://www.linkedin.com/in/Shubhangam333
 <br>
 
----
  
 <a href="https://github.com/Shubhangam333/Shubhangam333">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shubhangam333&bg_color=282C34&text_color=ffffff" />
