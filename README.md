@@ -9,7 +9,7 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=Shubhangam333.Shubhangam333)
 
-[![An image of @shubhangam333's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/shubhangam333)](https://holopin.io/@shubhangam333)
+
 ### Languages and Tools:
 
 <img align="left" alt="HTML5" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
