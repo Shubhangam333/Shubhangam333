@@ -5,7 +5,7 @@
 - :octocat: I am open to collaborate with other digital content creators.
 - :books: Learning new things, self driven, hard working and friendly.:smiley:
 
-- [![@Shubhangam's Holopin board](https://holopin.io/api/user/board?user=shubhangam333)](https://holopin.io/@shubhangam333)
+- [![@Shubhangam's Holopin board](https://holopin.io/api/user/board?user=shubhangam333)](https://holopin.io/@shubhangam333#badges)
 
 ![](https://visitor-badge.glitch.me/badge?page_id=Shubhangam333.Shubhangam333)
 ### Languages and Tools:
